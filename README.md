@@ -2,7 +2,7 @@ Brawl Stars V48 MOD! Client by @SpeigenGit
 
 Discord link : https://discord.gg/kcVzmSTP58
 
-ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/1BT2ildyXKWIsVpYccME8sXicmvYJR4zv/view?usp=drivesdk
+ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/1KS09oc5zNtNCgA-O2Q9iTeGMSPVZmHfd/view?usp=drivesdk
 
 Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V48/zip/refs/heads/main
 
