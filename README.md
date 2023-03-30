@@ -1,4 +1,4 @@
-Brawl Stars V48 MOD! Client by @SpeigenGit
+Brawl Stars V48 MOD! Client by ![@SpeigenGit](https://github.com/SpeigenGit)
 
 Discord link : https://discord.gg/kcVzmSTP58
 
