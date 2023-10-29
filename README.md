@@ -1,6 +1,6 @@
 Brawl Stars V48 MOD!
 
-# This is a fork from original BSDS by [Crazor](https://github.com/CrazorTheCat)  with a lot less features, it is meant for developement, do not use for production and hosting for others.
+# This is a fork from original BSDS by [Crazor](https://github.com/CrazorTheCat) 
 
 Discord link : https://discord.gg/kcVzmSTP58
 
@@ -26,4 +26,4 @@ Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V48/zip/refs/heads/main
 ## credits ##
 [Speigen](https://github.com/SpeigenGit) Android Client
 
-[risporce](https://github.com/risporce) for his zip from [BSDS](https://github.com/risporce/BSDS)
+[Crazor](https://github.com/CrazorTheCat) for his zip from [BSDS V44](https://github.com/CrazorTheCat/BSDS-V44)
