@@ -2,7 +2,7 @@ Brawl Stars V48 MOD!
 
 # This is a fork from original BSDS by [Crazor](https://github.com/CrazorTheCat) 
 
-Discord link : https://discord.gg/kcVzmSTP58
+Discord link : https://discord.gg/DAQVzRAxKt
 
 ANDROID (GOOGLE DRIVE) : https://drive.google.com/file/d/1KS09oc5zNtNCgA-O2Q9iTeGMSPVZmHfd/view?usp=drivesdk
 
