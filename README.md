@@ -21,9 +21,9 @@ Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V48/zip/refs/heads/main
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
 
-![lsbsv48](https://cdn.discordapp.com/attachments/1040608064681803827/1090261450095874058/Screenshot_2023-03-28-16-09-21-822_com.lsbs.v48888.jpg?ex=670c6f59&is=670b1dd9&hm=024662233c54ffdb6230080e903db2035d0b421dd0dcd8239245b377379db83f&)
+![lsbsv48](https://github.com/LekmaDev/LSBS-V48/blob/main/Screenshot_2023-03-28-16-09-21-822_com.lsbs.v48888.jpg)
 
 ## credits ##
-[Speigen](https://github.com/SpeigenGit) Android Client
+[Speigen](https://github.com/beqwit) Android Client
 
 [Crazor](https://github.com/CrazorTheCat) for his zip from [BSDS V44](https://github.com/CrazorTheCat/BSDS-V44)
